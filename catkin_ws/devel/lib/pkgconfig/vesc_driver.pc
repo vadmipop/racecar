@@ -1,0 +1,1 @@
+/root/catkin_ws/devel/.private/vesc_driver/lib/pkgconfig/vesc_driver.pc

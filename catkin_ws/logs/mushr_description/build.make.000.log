@@ -1,0 +1,24 @@
+[ 12%] [34m[1mGenerating /root/catkin_ws/devel/.private/mushr_description/share/mushr_description/robots/racecar-mit.urdf[0m
+[ 25%] [34m[1mGenerating /root/catkin_ws/devel/.private/mushr_description/share/mushr_description/robots/mushr_tx2.urdf[0m
+
+[ 37%] [34m[1mGenerating /root/catkin_ws/devel/.private/mushr_description/share/mushr_description/robots/mushr_tx2_green_black.urdf[0m
+
+[ 37%] Built target link_mushr_tx2
+[ 37%] Built target link_mushr_tx2_green_black
+
+[ 37%] Built target link_mushr_nano
+[ 50%] [34m[1mGenerating /root/catkin_ws/devel/.private/mushr_description/share/mushr_description/robots/mushr_nano.urdf[0m
+[ 50%] Built target link_mushr_nano_red_white
+[ 50%] Built target link_mushr_nano_teal_purple
+
+[ 62%] [34m[1mGenerating /root/catkin_ws/devel/.private/mushr_description/share/mushr_description/robots/mushr_nano_red_white.urdf[0m
+
+[ 75%] [34m[1mGenerating /root/catkin_ws/devel/.private/mushr_description/share/mushr_description/robots/mushr_nano_teal_purple.urdf[0m
+[ 87%] [34m[1mGenerating /root/catkin_ws/devel/.private/mushr_description/share/mushr_description/robots/mushr_nano_purple_gold.urdf[0m
+
+[100%] [34m[1mGenerating /root/catkin_ws/devel/.private/mushr_description/share/mushr_description/robots/mushr_nano_green_black.urdf[0m
+
+[100%] Built target link_mushr_nano_purple_gold
+[100%] Built target link_mushr_nano_green_black
+
+[100%] Built target description_files

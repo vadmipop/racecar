@@ -1,0 +1,8 @@
+prefix=/root/catkin_ws/devel/.private/mushr_sim
+
+Name: mushr_sim
+Description: Description of mushr_sim
+Version: 1.0.0
+Cflags: -I/root/catkin_ws/devel/.private/mushr_sim/include
+Libs: -L${prefix}/lib 
+Requires: 

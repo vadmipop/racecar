@@ -1,0 +1,4 @@
+Symlinking /root/catkin_ws/devel/lib/mushr_gp/planner_node
+Symlinking /root/catkin_ws/devel/lib/pkgconfig/mushr_gp.pc
+Symlinking /root/catkin_ws/devel/share/mushr_gp/cmake/mushr_gpConfig-version.cmake
+Symlinking /root/catkin_ws/devel/share/mushr_gp/cmake/mushr_gpConfig.cmake

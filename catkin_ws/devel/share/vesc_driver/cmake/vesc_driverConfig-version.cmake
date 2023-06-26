@@ -1,0 +1,1 @@
+/root/catkin_ws/devel/.private/vesc_driver/share/vesc_driver/cmake/vesc_driverConfig-version.cmake

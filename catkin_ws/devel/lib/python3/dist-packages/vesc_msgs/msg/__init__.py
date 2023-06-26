@@ -1,0 +1,1 @@
+/root/catkin_ws/devel/.private/vesc_msgs/lib/python3/dist-packages/vesc_msgs/msg/__init__.py

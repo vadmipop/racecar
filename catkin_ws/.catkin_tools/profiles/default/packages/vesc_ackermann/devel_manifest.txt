@@ -1,0 +1,8 @@
+vesc/vesc_ackermann
+/root/catkin_ws/devel/.private/vesc_ackermann/cmake.lock /root/catkin_ws/devel/./cmake.lock
+/root/catkin_ws/devel/.private/vesc_ackermann/lib/libvesc_ackermann_nodelet.so /root/catkin_ws/devel/lib/libvesc_ackermann_nodelet.so
+/root/catkin_ws/devel/.private/vesc_ackermann/lib/pkgconfig/vesc_ackermann.pc /root/catkin_ws/devel/lib/pkgconfig/vesc_ackermann.pc
+/root/catkin_ws/devel/.private/vesc_ackermann/lib/vesc_ackermann/ackermann_to_vesc_node /root/catkin_ws/devel/lib/vesc_ackermann/ackermann_to_vesc_node
+/root/catkin_ws/devel/.private/vesc_ackermann/lib/vesc_ackermann/vesc_to_odom_node /root/catkin_ws/devel/lib/vesc_ackermann/vesc_to_odom_node
+/root/catkin_ws/devel/.private/vesc_ackermann/share/vesc_ackermann/cmake/vesc_ackermannConfig-version.cmake /root/catkin_ws/devel/share/vesc_ackermann/cmake/vesc_ackermannConfig-version.cmake
+/root/catkin_ws/devel/.private/vesc_ackermann/share/vesc_ackermann/cmake/vesc_ackermannConfig.cmake /root/catkin_ws/devel/share/vesc_ackermann/cmake/vesc_ackermannConfig.cmake

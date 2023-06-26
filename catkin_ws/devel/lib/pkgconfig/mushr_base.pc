@@ -1,0 +1,1 @@
+/root/catkin_ws/devel/.private/mushr_base/lib/pkgconfig/mushr_base.pc

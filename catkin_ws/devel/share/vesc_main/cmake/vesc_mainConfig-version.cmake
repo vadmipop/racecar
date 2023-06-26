@@ -1,0 +1,1 @@
+/root/catkin_ws/devel/.private/vesc_main/share/vesc_main/cmake/vesc_mainConfig-version.cmake

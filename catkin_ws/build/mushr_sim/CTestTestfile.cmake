@@ -1,0 +1,11 @@
+# CMake generated Testfile for 
+# Source directory: /root/catkin_ws/src/mushr/mushr_sim
+# Build directory: /root/catkin_ws/build/mushr_sim
+# 
+# This file includes the relevant testing commands required for 
+# testing this directory and lists subdirectories to be tested as well.
+add_test(_ctest_mushr_sim_roslaunch-check_launch "/root/catkin_ws/build/mushr_sim/catkin_generated/env_cached.sh" "/usr/bin/python3" "/opt/ros/noetic/share/catkin/cmake/test/run_tests.py" "/root/catkin_ws/build/mushr_sim/test_results/mushr_sim/roslaunch-check_launch.xml" "--return-code" "/usr/local/lib/python3.8/dist-packages/cmake/data/bin/cmake -E make_directory /root/catkin_ws/build/mushr_sim/test_results/mushr_sim" "/opt/ros/noetic/share/roslaunch/cmake/../scripts/roslaunch-check -o \"/root/catkin_ws/build/mushr_sim/test_results/mushr_sim/roslaunch-check_launch.xml\" \"/root/catkin_ws/src/mushr/mushr_sim/launch\" ")
+set_tests_properties(_ctest_mushr_sim_roslaunch-check_launch PROPERTIES  _BACKTRACE_TRIPLES "/opt/ros/noetic/share/catkin/cmake/test/tests.cmake;160;add_test;/opt/ros/noetic/share/roslaunch/cmake/roslaunch-extras.cmake;66;catkin_run_tests_target;/root/catkin_ws/src/mushr/mushr_sim/CMakeLists.txt;34;roslaunch_add_file_check;/root/catkin_ws/src/mushr/mushr_sim/CMakeLists.txt;0;")
+add_test(_ctest_mushr_sim_nosetests_test "/root/catkin_ws/build/mushr_sim/catkin_generated/env_cached.sh" "/usr/bin/python3" "/opt/ros/noetic/share/catkin/cmake/test/run_tests.py" "/root/catkin_ws/build/mushr_sim/test_results/mushr_sim/nosetests-test.xml" "--return-code" "\"/usr/local/lib/python3.8/dist-packages/cmake/data/bin/cmake\" -E make_directory /root/catkin_ws/build/mushr_sim/test_results/mushr_sim" "/usr/bin/nosetests3 -P --process-timeout=60 --where=/root/catkin_ws/src/mushr/mushr_sim/test --with-xunit --xunit-file=/root/catkin_ws/build/mushr_sim/test_results/mushr_sim/nosetests-test.xml")
+set_tests_properties(_ctest_mushr_sim_nosetests_test PROPERTIES  _BACKTRACE_TRIPLES "/opt/ros/noetic/share/catkin/cmake/test/tests.cmake;160;add_test;/opt/ros/noetic/share/catkin/cmake/test/nosetests.cmake;83;catkin_run_tests_target;/root/catkin_ws/src/mushr/mushr_sim/CMakeLists.txt;36;catkin_add_nosetests;/root/catkin_ws/src/mushr/mushr_sim/CMakeLists.txt;0;")
+subdirs("gtest")

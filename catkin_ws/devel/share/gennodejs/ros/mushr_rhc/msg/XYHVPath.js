@@ -1,0 +1,1 @@
+/root/catkin_ws/devel/.private/mushr_rhc/share/gennodejs/ros/mushr_rhc/msg/XYHVPath.js

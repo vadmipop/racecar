@@ -1,0 +1,1 @@
+/root/catkin_ws/devel/.private/mushr_sim/share/gennodejs/ros/mushr_sim/srv/CarPose.js

@@ -1,0 +1,3 @@
+Symlinking /root/catkin_ws/devel/lib/pkgconfig/mushr_hardware.pc
+Symlinking /root/catkin_ws/devel/share/mushr_hardware/cmake/mushr_hardwareConfig-version.cmake
+Symlinking /root/catkin_ws/devel/share/mushr_hardware/cmake/mushr_hardwareConfig.cmake

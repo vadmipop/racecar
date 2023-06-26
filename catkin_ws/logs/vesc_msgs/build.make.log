@@ -1,0 +1,25 @@
+[  0%] Built target _vesc_msgs_generate_messages_check_deps_VescStateStamped
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target _vesc_msgs_generate_messages_check_deps_VescState
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  8%] [34m[1mGenerating Python from MSG vesc_msgs/VescState[0m
+[ 16%] [34m[1mGenerating Python from MSG vesc_msgs/VescStateStamped[0m
+[ 25%] [34m[1mGenerating C++ code from vesc_msgs/VescState.msg[0m
+[ 33%] [34m[1mGenerating Python msg __init__.py for vesc_msgs[0m
+[ 41%] [34m[1mGenerating C++ code from vesc_msgs/VescStateStamped.msg[0m
+[ 41%] Built target vesc_msgs_generate_messages_py
+[ 41%] Built target vesc_msgs_generate_messages_cpp
+[ 50%] [34m[1mGenerating EusLisp code from vesc_msgs/VescState.msg[0m
+[ 58%] [34m[1mGenerating Lisp code from vesc_msgs/VescState.msg[0m
+[ 66%] [34m[1mGenerating EusLisp code from vesc_msgs/VescStateStamped.msg[0m
+[ 75%] [34m[1mGenerating Lisp code from vesc_msgs/VescStateStamped.msg[0m
+[ 83%] [34m[1mGenerating EusLisp manifest code for vesc_msgs[0m
+[ 83%] Built target vesc_msgs_generate_messages_lisp
+[ 91%] [34m[1mGenerating Javascript code from vesc_msgs/VescState.msg[0m
+[100%] [34m[1mGenerating Javascript code from vesc_msgs/VescStateStamped.msg[0m
+[100%] Built target vesc_msgs_generate_messages_nodejs
+[100%] Built target vesc_msgs_generate_messages_eus
+[100%] Built target vesc_msgs_generate_messages

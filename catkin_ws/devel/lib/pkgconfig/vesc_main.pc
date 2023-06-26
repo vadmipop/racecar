@@ -1,0 +1,1 @@
+/root/catkin_ws/devel/.private/vesc_main/lib/pkgconfig/vesc_main.pc

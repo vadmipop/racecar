@@ -1,0 +1,1 @@
+/root/catkin_ws/devel/.private/vesc_msgs/share/gennodejs/ros/vesc_msgs/msg/VescStateStamped.js

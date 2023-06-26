@@ -1,0 +1,7 @@
+set(mushr_base_SETUP_PY_SETUP_MODULE "setuptools")
+set(mushr_base_SETUP_PY_VERSION "0.0.0")
+set(mushr_base_SETUP_PY_SCRIPTS "")
+set(mushr_base_SETUP_PY_PACKAGES "mushr_base")
+set(mushr_base_SETUP_PY_PACKAGE_DIRS "src/mushr_base")
+set(mushr_base_SETUP_PY_MODULES "")
+set(mushr_base_SETUP_PY_MODULE_DIRS "")

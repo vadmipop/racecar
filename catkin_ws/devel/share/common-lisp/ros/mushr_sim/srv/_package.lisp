@@ -1,0 +1,1 @@
+/root/catkin_ws/devel/.private/mushr_sim/share/common-lisp/ros/mushr_sim/srv/_package.lisp

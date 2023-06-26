@@ -1,0 +1,13 @@
+In file included from [01m[K/opt/ros/noetic/include/sbpl/planners/adplanner.h:37[m[K,
+                 from [01m[K/opt/ros/noetic/include/sbpl/headers.h:55[m[K,
+                 from [01m[K/root/catkin_ws/src/mushr_gp/src/planner.cpp:4[m[K:
+[01m[K/opt/ros/noetic/include/sbpl/utils/mdp.h:[m[K In destructor ‘[01m[KCMDPACTION::~CMDPACTION()[m[K’:
+[01m[K/opt/ros/noetic/include/sbpl/utils/mdp.h:68:37:[m[K [01;35m[Kwarning: [m[Kthrow will always call terminate() [[01;35m[K-Wterminate[m[K]
+   68 |             throw SBPL_Exception(msg[01;35m[K)[m[K;
+      |                                     [01;35m[K^[m[K
+[01m[K/opt/ros/noetic/include/sbpl/utils/mdp.h:68:37:[m[K [01;36m[Knote: [m[Kin C++11 destructors default to noexcept
+[01m[K/opt/ros/noetic/include/sbpl/utils/mdp.h:[m[K In destructor ‘[01m[KCMDPSTATE::~CMDPSTATE()[m[K’:
+[01m[K/opt/ros/noetic/include/sbpl/utils/mdp.h:105:37:[m[K [01;35m[Kwarning: [m[Kthrow will always call terminate() [[01;35m[K-Wterminate[m[K]
+  105 |             throw SBPL_Exception(msg[01;35m[K)[m[K;
+      |                                     [01;35m[K^[m[K
+[01m[K/opt/ros/noetic/include/sbpl/utils/mdp.h:105:37:[m[K [01;36m[Knote: [m[Kin C++11 destructors default to noexcept

@@ -1,0 +1,1 @@
+/root/catkin_ws/devel/.private/mushr_sim/share/roseus/ros/mushr_sim/manifest.l

@@ -1,0 +1,11 @@
+Symlinking /root/catkin_ws/devel/include/ackermann_cmd_mux/reloadConfig.h
+Symlinking /root/catkin_ws/devel/lib/libackermann_cmd_mux_nodelet.so
+Symlinking /root/catkin_ws/devel/lib/pkgconfig/ackermann_cmd_mux.pc
+Symlinking /root/catkin_ws/devel/lib/python3/dist-packages/ackermann_cmd_mux/__init__.py
+Symlinking /root/catkin_ws/devel/lib/python3/dist-packages/ackermann_cmd_mux/cfg/__init__.py
+Symlinking /root/catkin_ws/devel/lib/python3/dist-packages/ackermann_cmd_mux/cfg/reloadConfig.py
+Symlinking /root/catkin_ws/devel/share/ackermann_cmd_mux/cmake/ackermann_cmd_muxConfig-version.cmake
+Symlinking /root/catkin_ws/devel/share/ackermann_cmd_mux/cmake/ackermann_cmd_muxConfig.cmake
+Symlinking /root/catkin_ws/devel/share/ackermann_cmd_mux/docs/reloadConfig-usage.dox
+Symlinking /root/catkin_ws/devel/share/ackermann_cmd_mux/docs/reloadConfig.dox
+Symlinking /root/catkin_ws/devel/share/ackermann_cmd_mux/docs/reloadConfig.wikidoc

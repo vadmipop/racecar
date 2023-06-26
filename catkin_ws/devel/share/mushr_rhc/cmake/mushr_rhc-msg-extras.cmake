@@ -1,0 +1,1 @@
+/root/catkin_ws/devel/.private/mushr_rhc/share/mushr_rhc/cmake/mushr_rhc-msg-extras.cmake

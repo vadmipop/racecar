@@ -1,0 +1,1 @@
+/root/catkin_ws/devel/.private/mushr_rhc/share/roseus/ros/mushr_rhc/manifest.l

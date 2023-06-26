@@ -1,0 +1,8 @@
+prefix=/root/catkin_ws/devel/.private/mushr_hardware
+
+Name: mushr_hardware
+Description: Description of mushr_hardware
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,1 @@
+/root/catkin_ws/devel/.private/mushr_rhc/share/common-lisp/ros/mushr_rhc/msg/mushr_rhc-msg.asd

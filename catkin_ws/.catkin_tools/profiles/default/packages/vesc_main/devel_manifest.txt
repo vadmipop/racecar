@@ -1,0 +1,5 @@
+vesc/vesc_main
+/root/catkin_ws/devel/.private/vesc_main/cmake.lock /root/catkin_ws/devel/./cmake.lock
+/root/catkin_ws/devel/.private/vesc_main/lib/pkgconfig/vesc_main.pc /root/catkin_ws/devel/lib/pkgconfig/vesc_main.pc
+/root/catkin_ws/devel/.private/vesc_main/share/vesc_main/cmake/vesc_mainConfig-version.cmake /root/catkin_ws/devel/share/vesc_main/cmake/vesc_mainConfig-version.cmake
+/root/catkin_ws/devel/.private/vesc_main/share/vesc_main/cmake/vesc_mainConfig.cmake /root/catkin_ws/devel/share/vesc_main/cmake/vesc_mainConfig.cmake

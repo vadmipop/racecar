@@ -1,0 +1,1 @@
+/root/catkin_ws/devel/.private/vesc_msgs/include/vesc_msgs/VescState.h
